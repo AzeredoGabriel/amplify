@@ -19,6 +19,17 @@ $grey-color:       #828282;
 
 amp-img {
   background-color: grey;
+  width: 60%;
+  margin-top: 30px;
+  border: 1px solid #c0c0c0;
+  border-radius: 5px;
+  margin: 5% auto;
+  box-shadow: -4px 5px 5px -6px #000;
+ 
+  &.logo {
+    margin: initial; 
+  }
+
 }
 
 .cf {
@@ -62,7 +73,7 @@ body {
 .site-header {
   position: relative;
   width: 100%;
-  max-width: 700px;
+  max-width: 980px;
   margin: 16px auto 0 auto;
   @include box-sizing(border-box);
   @include respond-to(800) {
@@ -92,7 +103,7 @@ body {
 
 .blog-header {
   width: 100%;
-  max-width: 700px;
+  max-width: 980px;
   margin: 0 auto;
   position: relative;
   padding: 0;
@@ -107,9 +118,13 @@ body {
     line-height: 50px;
     word-break: break-word;
     color: #333333;
+
+    span {
+      font-size: 20px;
+    }
   }
   .blog-description {
-    font-size: 28px;
+    font-size: 22px;
     margin: 0 0 20px;
     padding: 0;
     line-height: 1.2;
@@ -120,7 +135,7 @@ body {
 
 .content {
   width: 100%;
-  max-width: 700px;
+  max-width: 980px;
   margin: 25px auto 0 auto;
   @include box-sizing(border-box);
   @include respond-to(800) {
@@ -173,7 +188,7 @@ body {
 }
 
 .post-template .content {
-  max-width: 700px;
+  max-width: 980px;
 }
 
 .index-headline {
@@ -205,7 +220,7 @@ body {
   margin: 0 auto;
   padding: $rs * 3 0;
   width: 100%;
-  max-width: 700px;
+  max-width: 980px;
   font-size: $rs / 4 * 3;
   text-align: center;
   color: #999999;
@@ -441,6 +456,7 @@ body {
         }
       }
     }
+
     .isRight {
       float: right;
       width: 47%;
@@ -472,6 +488,64 @@ body {
           padding-bottom: 18px;
           font-weight: 700;
           color: #333333;
+        }
+      }
+    }
+
+    .isFull {
+      float: left;
+      width: 100%;
+      @include box-sizing(border-box);
+      @include respond-to(800) {
+        width: 100%;
+        padding-bottom: $rs * 2;
+      }
+      .bio {
+        margin-top: 18px;
+        margin-bottom: 18px;
+      }
+      .username {
+        margin-left: 4px;
+        margin-right: 18px;
+        margin-bottom: 18px;
+      }
+      .index-headline {
+        padding-bottom: 32px;
+      }
+      a {
+        color: black;
+        text-decoration: none;
+        &:hover {
+          color: #333333;
+          text-decoration: underline;
+        }
+      }
+      .author-image {
+        display: block;
+        width: 80px;
+        height: 80px;
+        float: left;
+        background-size: cover;
+        border-radius: 10%;
+        text-indent: -9999px;
+      }
+      h4 {
+        font-size: 18px;
+        line-height: 1.1;
+        font-weight: 700;
+        padding: 0;
+        margin: 0;
+        padding-left: 100px;
+      }
+      p {
+        font-size: 14px;
+        line-height: 1.3;
+        font-weight: 400;
+        padding: 0;
+        margin: 0;
+        padding-left: 100px;
+        &.published {
+          color: #999999;
         }
       }
     }
