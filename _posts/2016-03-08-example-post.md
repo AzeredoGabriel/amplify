@@ -1,17 +1,11 @@
 ---
 layout: post
-title: Ea eam nibh persecuti, partem habemus nominavi
+title: Por que começar a escrever agora ?
 ---
 
-At labitur probatus eum, qui modo idque partem ne, ea has oratio sanctus cotidieque. Dicta persecuti sit ex. Discere facilis recteque sit no, in eripuit volumus adversarium vim. Ad sed meis nulla accusata. Ex posse accusam maluisset mei, id vix ignota cetero inimicus.
+Olá, meu nome é Gabriel Almeida de Azeredo. Estou começando a escrever algumas coisas nesse blog sobre tecnologia, liderança, Desenvolvimento Web e mais.  
 
-> Nec amet pericula dissentiet...
->
-> Nam liber tritani ei, urbanitas tincidunt usu et. Odio voluptua gubergren at cum. An porro mucius tibique nam, cu usu everti dignissim assueverit. Docendi patrioque constituto te sit. Qui lorem soluta ea, commune deserunt sed id. Accusam commune cotidieque his ea.
-
-Pro hinc copiosae an, ad ius salutandi expetendis. Quo suavitate intellegat forensibus an. Sonet meliore consetetur te sea, in eam decore utroque, dicat verear et sit. Pro aperiam pertinax splendide id, IUS STET ELEIFEND INTELLEGAM ID.
-
-<amp-img width="600" height="300" layout="responsive" src="http://lorempixel.com/600/300/people"></amp-img>
+<amp-img width="960" height="493" layout="responsive" src="/assets/images/posts/por-que-comecar-a-escrever-agora/acelerar.jpg"></amp-img>
 
 Ea ullamcorper intellegebat pri!
 
