@@ -6,22 +6,21 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Awesome Site Title
-email: your-email@domain.com
+title: AzeredoGab - Leadership & Web Development
+email: g.almeida.azeredo@gmail.com
 description: >
-  Awesome site description here
+  Arquitetura e Desenvolvimento de software, PHP, .NET, Javascript, Gestão de Projetos, Café, Cerveja... tem de tudo.
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://azeredogab.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
-name: 'Your Name'
+name: 'Gabriel Azeredo'
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
-author_image: "/assets/images/author.jpg"
-twitter_username: jekyllrb
-github_username:  jekyll
+  Meu nome é Gabriel Azeredo, sou Coordenador de projetos na Inforce Internet Solutions. Começei a trabalhar como Web Developer à um pouco mais de 4 anos, desde então, me transformei em um apaixonado por tecnologia e novidades nesse mundo de software.
+author_image: "/assets/images/perfil.jpg"
+twitter_username: azeredogab
+github_username:  AzeredoGabriel
 
 # Google Analytics
 analytics_id: ""
