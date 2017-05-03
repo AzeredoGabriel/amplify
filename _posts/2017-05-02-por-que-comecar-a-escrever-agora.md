@@ -18,6 +18,6 @@ Grande abraço! :)
 
 Mais uma frase que eu gosto muito.
 <blockquote>
-<b>"Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças." <br>
-- Leon C. Megginson</b>
+<b>"Não é o mais forte que sobrevive, nem o mais inteligente, mas o que melhor se adapta às mudanças."</b> <br>
+- Leon C. Megginson
 </blockquote>
