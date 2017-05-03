@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-Meu nome é *Gabriel Azeredo*, sou Coordenador de projetos na [Inforce Internet Solutions](http://www.inforce.com.br). Começei a trabalhar como Web Developer à um pouco mais de 4 anos, desde então, me transformei em um apaixonado por tecnologia e novidades nesse mundo de software. 
+Meu nome é **Gabriel Azeredo**. Comecei a trabalhar como Web Developer à um pouco mais de 4 anos, desde então, me transformei em um apaixonado por tecnologia e novidades nesse mundo de software. 
 
 <amp-img width="400" height="400" layout="responsive" src="/assets/images/perfil.jpg" class="img-profile"></amp-img>
 
@@ -18,5 +18,5 @@ Pra quem quiser seguir, minhas redes sociais (Não tenho muita paciência pra re
 
 * [Facebook](https://www.facebook.com/uuuuarruuu)
 * [LinkedIn](https://www.linkedin.com/in/gabriel-almeida-53799750)
-* [Github](https://github.com/azeredogab)
+* [Github](https://github.com/AzeredoGabriel)
 
