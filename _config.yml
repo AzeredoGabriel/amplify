@@ -35,4 +35,5 @@ kramdown:
   parse_block_html: true
 
 gems:
+  - jekyll-sitemap
   - jekyll-paginate
