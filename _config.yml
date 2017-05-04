@@ -13,7 +13,7 @@ description: >
   Arquitetura e Desenvolvimento de software, PHP, .NET, Javascript, Gestão de Projetos, Café, Cerveja... tem de tudo.
 logo: "/assets/images/logo.jpg"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://azeredogab.com" # the base hostname & protocol for your site
+url: "https://azeredogab.com" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 name: 'Gabriel Azeredo'
