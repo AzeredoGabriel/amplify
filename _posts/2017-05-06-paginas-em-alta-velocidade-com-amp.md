@@ -85,6 +85,6 @@ Grande Abraço! :)
 
 
 **Fontes:**
-https://tecnologia.uol.com.br/ultimas-noticias/redacao/2011/07/27/internautas-moveis-esperam-so-5-segundos-pelo-carregamento-de-um-site-diz-pesquisa.jhtm
-
-http://resultadosdigitais.com.br/blog/google-amp-accelerated-mobile-pages/
+- https://www.ampproject.org/
+- https://tecnologia.uol.com.br/ultimas-noticias/redacao/2011/07/27/internautas-moveis-esperam-so-5-segundos-pelo-carregamento-de-um-site-diz-pesquisa.jhtm
+- http://resultadosdigitais.com.br/blog/google-amp-accelerated-mobile-pages/
