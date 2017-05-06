@@ -7,7 +7,7 @@ Nos dias de hoje, onde todas as pessoas estão sempre conectadas nos seus smartp
 
 Com o propósito de tornar as páginas web consideravelmente mais rápidas, para saciar essa necessidade das pessoas, o Google criou um projeto open source chamado AMP (Accelerated Mobile Pages). 
 
-<amp-img width="600" height="400" layout="responsive" src="/assets/images/posts/paginas-em-alta-velocidade-com-amp/logo.jpg?1"></amp-img>
+<amp-img width="600" height="400" layout="responsive" src="/assets/posts/images/paginas-em-alta-velocidade-com-amp/logo.jpg"></amp-img>
 
 ## Então, o que é AMP ?
 
