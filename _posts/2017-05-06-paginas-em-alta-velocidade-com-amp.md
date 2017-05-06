@@ -1,3 +1,8 @@
+---
+layout: post
+title: Páginas em alta velocidade com AMP
+---
+
 Nos dias de hoje, onde todas as pessoas estão sempre conectadas nos seus smartphones, há uma necessidade crescente de consumir conteúdo rapidamente. Notícias sendo lançadas à todo momento, em tempo real. A velocidade das informações aumenta a cada dia. Um estudo divulgado Compuware revela que sete em cada dez usuários de celulares no mundo aguardam no máximo cinco segundos para que um site abra.
 
 Com o propósito de tornar as páginas web consideravelmente mais rápidas, para saciar essa necessidade das pessoas, o Google criou um projeto open source chamado AMP (Accelerated Mobile Pages). 
