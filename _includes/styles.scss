@@ -596,6 +596,13 @@ pre {
 }
 
 .social-img {
-  width: 16px; 
-  background: #FFFFFF; 
+  width: 16px;
+  background: #FFFFFF;
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+
+.social-text-share {
+  float: left;
 }
